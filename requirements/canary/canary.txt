@@ -1,0 +1,32 @@
+debug:~# for i in {1..10}; do curl 172.20.67.70; done
+<html>
+<h1>This is version 1</h1>
+</html>
+<html>
+<h1>This is version 1</h1>
+</html>
+<html>
+<h1>This is version 2</h1>
+</html>
+<html>
+<h1>This is version 1</h1>
+</html>
+<html>
+<h1>This is version 2</h1>
+</html>
+<html>
+<h1>This is version 1</h1>
+</html>
+<html>
+<h1>This is version 1</h1>
+</html>
+<html>
+<h1>This is version 2</h1>
+</html>
+<html>
+<h1>This is version 2</h1>
+</html>
+<html>
+<h1>This is version 2</h1>
+</html>
+debug:~# 

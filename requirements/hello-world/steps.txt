@@ -1,0 +1,4 @@
+After checking the before fix png you cant see it says to use the "/healthz"
+in the liveness probe
+
+editing the deployment file to hit the "/healthz" fixed the issue.
