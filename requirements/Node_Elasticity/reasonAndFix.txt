@@ -1,0 +1,2 @@
+the Reason the deployment didn't get fully deployed is because the worker nodes resources became insufficient.
+that is why it became neccessary to increase the node group to accomediate the extra pods.
